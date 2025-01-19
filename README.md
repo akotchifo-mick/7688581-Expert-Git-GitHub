@@ -8,10 +8,10 @@ Ces instructions permettent d'exécuter une copie du projet en local sur votre p
 
 ### Pré-requis
 
-Pour exécuter en local le projet Transport Libre, vous devez au préalable installer :
 
 ```
-A définir
+Aucun pré-requis 
+Ce projet est ouvert à tous
 
 ```
 
