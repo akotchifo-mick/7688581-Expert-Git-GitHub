@@ -11,7 +11,7 @@ Ces instructions permettent d'exécuter une copie du projet en local sur votre p
 
 ```
 Aucun pré-requis 
-Ce projet est ouvert à tous
+Projet 
 
 ```
 
